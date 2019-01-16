@@ -1,5 +1,4 @@
-# rancher server backup image
-FROM alpine:3.7
+FROM alpine:3.9
 MAINTAINER https://github.com/deitch
 
 # smb port
